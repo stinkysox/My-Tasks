@@ -1,0 +1,23 @@
+.tag-btn {
+  margin: 4px;
+  margin-right: 8px;
+  background: transparent;
+  border: 1px solid #f3aa4e;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.add-styles {
+  margin: 4px;
+  background-color: #f3aa4e;
+  margin-right: 8px;
+  border: 1px solid #f3aa4e;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 10px;
+  cursor: pointer;
+}
